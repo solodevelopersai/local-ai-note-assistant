@@ -1,4 +1,3 @@
-![Uploading 1793548706586-clean.png…]()
 # AI-Powered Personal Knowledge Management & Note-Taking Assistant
 
 <div align="center">
