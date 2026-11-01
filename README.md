@@ -1,5 +1,10 @@
 # AI-Powered Personal Knowledge Management & Note-Taking Assistant
 
+<div align="center">
+  <img src="./assets/workflow.png" alt="AI-Powered Personal Knowledge Management system architecture" width="100%" />
+  <p><em>AI-Powered Personal Knowledge Management system architecture: local note ingestion, text extraction, AI summarization, automated tagging, and intelligent retrieval through a personal knowledge vault.</em></p>
+</div>
+
 A clean, local-first Python application that helps you manage personal notes, capture knowledge from Markdown and text files, and use AI to summarize content, generate tags, and answer questions based on your own local knowledge base.
 
 ## Features
