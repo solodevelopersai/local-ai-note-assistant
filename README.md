@@ -1,1 +1,1 @@
-# local-ai-note-assistant
+# local-Ai-Note-Assistant
